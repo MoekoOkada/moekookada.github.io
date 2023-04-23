@@ -8,7 +8,7 @@ hideLastMod = true
 ## CV
 
 - 2023 Apr. ~
-  - Institute of Science and Technology, Niigata University, Japan
+  - Institute of Science and Technolog, and Faculty of Agriculture, Niigata University, Japan
 - 2022 Jul. ~               
   - Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland
 - 2022 Apr. ~ 2023 Mar. 
