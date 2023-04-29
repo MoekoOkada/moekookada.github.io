@@ -9,7 +9,7 @@ hideLastMod = true
 
 #### 2023
 
-  8. Asami Michikawa, Moeko Okada, Tatsuya M. Ikeda, Kiyotaka Nagaki, Kentaro Yoshida, Shigeo Takumi (2023) Phenotypic effects of Am genomes in nascent synthetic hexaploids derived from interspecific crosses between durum and wild einkorn wheat. PLoS One, 18(4):e0284408. doi:10.1371/journal.pone.0284408.
+  8. **(NEW!)** A. Michikawa, **M. Okada**, T. M. Ikeda, K. Nagaki, K. Yoshida, S. Takumi (2023) Phenotypic effects of Am genomes in nascent synthetic hexaploids derived from interspecific crosses between durum and wild einkorn wheat. PLoS One, 18(4):e0284408. doi:10.1371/journal.pone.0284408.
 
 
 #### 2021
