@@ -9,6 +9,8 @@ hideLastMod = true
 
 #### 2023
 
+  9. **(NEW!)** J. Sun, **M. Okada**, T. Tameshige, R. Shimizu-Inatsugi, R. Akiyama, A. J. Nagano, J. Sese, K.K. Shimizu (2023) A low-coverage 3′ RNA-seq to detect homeolog expression in polyploid wheat. **NAR Genomics and Bioinformatics**, 5(3):lqad067.  
+  [https://doi.org/10.1093/nargab/lqad067](https://doi.org/10.1093/nargab/lqad067)
   8. **(NEW!)** A. Michikawa, **M. Okada**, T. M. Ikeda, K. Nagaki, K. Yoshida, S. Takumi (2023) Phenotypic effects of Am genomes in nascent synthetic hexaploids derived from interspecific crosses between durum and wild einkorn wheat. **PLoS One**, 18(4):e0284408.  
   [https://doi.org/10.1371/journal.pone.0284408](https://doi.org/10.1371/journal.pone.0284408){:target="_blank"}  
 
