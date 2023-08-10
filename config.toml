@@ -6,7 +6,7 @@ baseurl = "https://MoekoOkada/moekookada.github.io/"
 publishDir = "docs"
 
 # Language used
-languageCode = "en-us"
+languageCode = "ja-jp"
 # Website title
 title = "Moeko Okada"
 # Theme used
