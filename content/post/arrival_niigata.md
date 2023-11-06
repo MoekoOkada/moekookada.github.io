@@ -1,7 +1,8 @@
 ---
-date: 2023-09-25T15:00:00+02:00
-draft: true
 title: "新潟入り！"
+draft: true
+date: 2023-09-11T15:00:00+02:00
+author: "Moeko Okada"
 ---
 
 ついに新潟入りしました！  

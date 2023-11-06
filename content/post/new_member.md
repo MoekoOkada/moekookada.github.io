@@ -2,6 +2,7 @@
 title: "学生さんが加わりました！"
 date: 2023-10-01T13:00:00+02:00
 draft: true
+author: "Moeko Okada"
 ---
 
 2023年度後期が始まりました。  
