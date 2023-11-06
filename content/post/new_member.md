@@ -1,7 +1,7 @@
 ---
 title: "学生さんが加わりました！"
 date: 2023-10-01T13:00:00+02:00
-draft: true
+# draft: true
 author: "Moeko Okada"
 ---
 

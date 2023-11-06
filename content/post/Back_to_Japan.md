@@ -1,7 +1,7 @@
 ---
 title: "帰国しました！"
 date: 2023-09-11T15:00:00+02:00
-draft: true
+# draft: true
 author: "Moeko Okada"
 ---
 

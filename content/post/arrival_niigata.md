@@ -1,6 +1,6 @@
 ---
 title: "新潟入り！"
-draft: true
+# draft: true
 date: 2023-09-11T15:00:00+02:00
 author: "Moeko Okada"
 ---
