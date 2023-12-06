@@ -16,7 +16,7 @@ hideLastMod = true
 
 #### 2021
 
-  7. K.K. Shimizu^*^, D. Copetti^*^, **M. Okada**^*^, T. Wicker, T. Tameshige, M. Hatakeyama, R. Shimizu-Inatsugi, C. Aquino, K. Nishimura, F. Kobayashi, K. Murata, T. Kuo, E. Delorean, J. Poland, F. Haberer, M. Spannagl, K.F.X. Mayer, J. Gutierrez-Gonzalez, G.J. Muehlbauer, C. Monat, A. Himmelbach, S. Padmarasu, M. Mascher, S. Walkowiak, T. Nakazaki, T. Ban, K. Kawaura, H. Tsuji, C. Pozniak, N. Stein, J. Sese*, S. Nasuda*, H. Handa* (2021) De Novo Genome Assembly of the Japanese Wheat Cultivar Norin 61 Highlights Functional Variation in Flowering Time and *Fusarium* Resistance Genes in East Asian Genotypes. **Plant and Cell Physiology**, 62(1): 8–27 (*: equally contribution)  
+  7. K.K. Shimizu^\*^, D. Copetti^\*^, **M. Okada**^\*^, T. Wicker, T. Tameshige, M. Hatakeyama, R. Shimizu-Inatsugi, C. Aquino, K. Nishimura, F. Kobayashi, K. Murata, T. Kuo, E. Delorean, J. Poland, F. Haberer, M. Spannagl, K.F.X. Mayer, J. Gutierrez-Gonzalez, G.J. Muehlbauer, C. Monat, A. Himmelbach, S. Padmarasu, M. Mascher, S. Walkowiak, T. Nakazaki, T. Ban, K. Kawaura, H. Tsuji, C. Pozniak, N. Stein, J. Sese*, S. Nasuda*, H. Handa* (2021) De Novo Genome Assembly of the Japanese Wheat Cultivar Norin 61 Highlights Functional Variation in Flowering Time and *Fusarium* Resistance Genes in East Asian Genotypes. **Plant and Cell Physiology**, 62(1): 8–27 (*: equally contribution)  
   [https://doi.org/10.1093/pcp/pcaa152](https://doi.org/10.1093/pcp/pcaa152)  
 
 #### 2020
