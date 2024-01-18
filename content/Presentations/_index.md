@@ -9,30 +9,33 @@ hideLastMod = true
 
 #### 2023
 
-- **M. Okada**, D. Tanwar, N.B. Hamaya, T. Wicker, J. Sese, S. Nasuda, K. K. Shimizu. (202306) Co-evolution of Cultivation Syndrome and the Human Agricultural Systems in Bread Wheat. International Conference of URPP EVolutino in Action, Monté Verita, Switzerland. (Poster)
-- M. Okada, J. Sun, T. Tameshige, M. Hatakeyama, R. Shimizu-Inatsugi, S. Takumi, J. Sese, K. K. Shimizu. Effects of allopolyploidization on homoeologous gene expression changes and environmental response in hexaploid wheat. Plant and Animal Genome Conference 30, January 2023, San Diego, USA, No.PE0500 (Poster)  
+- **M. Okada**. Effects of allopolyploidization on homoeologous gene expression in synthetic hexaploids. Polyploid evolutionary genomics: challenges and opportunities, July 2023, Fribourg, Switzerland. (Oral)
+- **M. Okada**, D. Tanwar, N.B. Hamaya, T. Wicker, J. Sese, S. Nasuda, K. K. Shimizu. Co-evolution of Cultivation Syndrome and the Human Agricultural Systems in Bread Wheat. International Conference of URPP EVolutino in Action, June 2023, Monté Verita, Switzerland. (Poster)
+- **M. Okada**. Adaptation of wheat to the Asian environment and changes in food culture. Kyoto University-University of Zurich Strategic Partnership Joint Symposium 2023〜Data Science and Social Impact〜, March 2023, Kyoto University, Kyoto (Oral)
+- **M. Okada**, J. Sun, T. Tameshige, M. Hatakeyama, R. Shimizu-Inatsugi, S. Takumi, J. Sese, K. K. Shimizu. Effects of allopolyploidization on homoeologous gene expression changes and environmental response in hexaploid wheat. Plant and Animal Genome Conference 30, January 2023, San Diego, USA, No.PE0500 (Poster)  
 
 #### 2022
 
-- M. Okada, J. Sun, T. Tameshige, M. Hatakeyama, R. Shimizu-Inatsugi, S. Takumi, J. Sese, K. K. Shimizu. Homoeologous gene expression analysis of wheat cultivars and sunthetic hexaploid wheats as an example of cold response. PSC symposium, December 2022, ETH Zurich, Switzerland, P23 (Poster)
-- M. Okada, K. Yoshida, K.K. Shimizu. Allopolyploid Evolution in Wheat and its Relatives Revealed by *De Novo* Genome Assemblies. The 10th Annual Retreat of URPP Evolution in Action, September 2022, Grindelwald, Switzerland (Poster)
-- M. Okada, K. Yoshida, K.K. Shimizu, S. Takumi†. RNA-seq-based bulked segregant analysis of the causal U- genome gene for hybrid incompatibility between tetraploid wheat and wild wheat relative Aegilops umbellulata. The 26th International Conference on Sexual Plant Reproduction, June 2022, Prague, Czech Republic, No. P191 (Poster)  
+- **M. Okada**, J. Sun, T. Tameshige, M. Hatakeyama, R. Shimizu-Inatsugi, S. Takumi, J. Sese, K. K. Shimizu. Homoeologous gene expression analysis of wheat cultivars and sunthetic hexaploid wheats as an example of cold response. PSC symposium, December 2022, ETH Zurich, Switzerland, P23 (Poster)
+- **M. Okada**, K. Yoshida, K.K. Shimizu. Allopolyploid Evolution in Wheat and its Relatives Revealed by *De Novo* Genome Assemblies. The 10th Annual Retreat of URPP Evolution in Action, September 2022, Grindelwald, Switzerland (Poster)
+- **M. Okada**, K. Yoshida, K.K. Shimizu, S. Takumi†. RNA-seq-based bulked segregant analysis of the causal U- genome gene for hybrid incompatibility between tetraploid wheat and wild wheat relative Aegilops umbellulata. The 26th International Conference on Sexual Plant Reproduction, June 2022, Prague, Czech Republic, No. P191 (Poster)  
 
 #### 2019
 
-- M. Okada, K. Yoshida, K.K. Shimizu, S. Takumi. Hybrid incompatibility between tetraploid wheat and wild diploid wheat relative, Aegilops umbellulata. PSC symposium, December 2019, ETH, Zurich, Switzerland, P28 (Poster)
-- M. Okada, K. Yoshida, K. Sato, S. Takumi. RNA-seq-based bulked segregant analysis of the causal U-genome gene for grass-clump dwarfism in interspecific hybrids between tetraploid wheat and wild wheat relative Aegilops umbellulata. The 1st International Wheat Congress, July 2019, Saskatoon, Canada, No. P032 (Poster)  
-- M. Okada, K. Yoshida, K. Sato, S. Takumi. RNA-seq BSA reveals the target region of hybrid incompatibility between tetraploid wheat and wild diploid wheat relative Aegilops umbellulata. Plant and Animal Genome Conference XXVII, January 2019, San Diego, USA, No. PE1038 (Poster) 
+- **M. Okada**, K. Yoshida, K.K. Shimizu, S. Takumi. Hybrid incompatibility between tetraploid wheat and wild diploid wheat relative, Aegilops umbellulata. PSC symposium, December 2019, ETH, Zurich, Switzerland, P28 (Poster)
+- **M. Okada**, K. Yoshida, K. Sato, S. Takumi. RNA-seq-based bulked segregant analysis of the causal U-genome gene for grass-clump dwarfism in interspecific hybrids between tetraploid wheat and wild wheat relative Aegilops umbellulata. The 1st International Wheat Congress, July 2019, Saskatoon, Canada, No. P032 (Poster)  
+- **M. Okada**, K. Yoshida, K. Sato, S. Takumi. RNA-seq BSA reveals the target region of hybrid incompatibility between tetraploid wheat and wild diploid wheat relative Aegilops umbellulata. Plant and Animal Genome Conference XXVII, January 2019, San Diego, USA, No. PE1038 (Poster) 
 
 #### 2017
 
-- M. Okada, K. Yoshida, R. Nishijima, K. Sato, S. Takumi. RNA sequencing reveals genome-wide polymorphisms applicable to develop genetic markers in Aegilops umbellulata. The 13th International Wheat Genetics Symposium, April 2017, Tulln, Austria, No. P75 (Poster)  
+- **M. Okada**, K. Yoshida, R. Nishijima, K. Sato, S. Takumi. RNA sequencing reveals genome-wide polymorphisms applicable to develop genetic markers in Aegilops umbellulata. The 13th International Wheat Genetics Symposium, April 2017, Tulln, Austria, No. P75 (Poster)  
 
 ## 一般講演
 
 #### 2023
 
-- M. Okad, D. Tanwar, N.B. Hamaya, T. Wicker, J. Sese, S. Nasuda, K. K. Shimizu. (202306) Co-evolution of Cultivation Syndrome and the Human Agricultural Systems in Bread Wheat. International Conference of URPP EVolutino in Action, Monté Verita, Switzerland.
+- 岡田萌子・孫建強・爲重才覚・畠山剛臣・清水（稲継）理恵・宅見薫雄・瀬々潤・清水健太郎. (2023) 異質倍数体化が相同遺伝子発現パターンに及ぼす影響. 第18回ムギ類研究会, 龍谷大学, 滋賀, 12月, P38（ポスター発表）
+
 
 #### 2021
 
@@ -74,4 +77,6 @@ hideLastMod = true
 
 #### 2020
 
-**岡田萌子**, 清水健太郎, D. Copetti, T. Wicker, 爲重才覚, 畠山雅臣, 清水（稲継）理恵, C. Aquino, 西村和紗, 小林史典, 村田和樹, T. Kuo, E. Delorean, J. Poland, G. Haberer, M. Spannag, K.F.X. Mayer, J. Gutierrez-Gonzalez, G.J. Muehlbauer, C. Monat, A. Himmelbach, S. Padmarasu, M. Mascher, S. Walkowiak, 中崎鉄也, 坂智広, 川浦香奈子, 辻寛之, C. Pozniak, N. Stein, 瀬々潤, 那須田周平, 半田裕一 (2020) 農林61号のゲノムから見えるもの. 第15回麦類研究会, オンライン, 12月
+- **岡田萌子** (2023) 麦類近縁野生種の育種利用に向けて. 第18回東北育種研究集会, 朱鷺メッセ, 新潟, 12月
+- **岡田萌子** (2023) コロナ禍中、ポストコロナでのチューリッヒ留学. 日本育種学会第144回講演会ワークショップ, 神戸大学, 兵庫, W06, 9月
+- **岡田萌子**, 清水健太郎, D. Copetti, T. Wicker, 爲重才覚, 畠山雅臣, 清水（稲継）理恵, C. Aquino, 西村和紗, 小林史典, 村田和樹, T. Kuo, E. Delorean, J. Poland, G. Haberer, M. Spannag, K.F.X. Mayer, J. Gutierrez-Gonzalez, G.J. Muehlbauer, C. Monat, A. Himmelbach, S. Padmarasu, M. Mascher, S. Walkowiak, 中崎鉄也, 坂智広, 川浦香奈子, 辻寛之, C. Pozniak, N. Stein, 瀬々潤, 那須田周平, 半田裕一 (2020) 農林61号のゲノムから見えるもの. 第15回麦類研究会, オンライン, 12月
