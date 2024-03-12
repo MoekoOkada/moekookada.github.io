@@ -9,7 +9,7 @@ hideLastMod = true
 
 - 2023 Apr. ~
   - Institute of Science and Technolog, and Faculty of Agriculture, Niigata University, Japan
-- 2022 Jul. ~               
+- 2022 Jul. ~  2023 Sep.             
   - Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland
 - 2022 Apr. ~ 2023 Mar. 
   - Kihara Institute of Biological Research, Yokohama City University, Japan                       
