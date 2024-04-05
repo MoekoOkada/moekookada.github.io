@@ -5,7 +5,14 @@ hideDate = true
 hideLastMod = true
 +++
 
-## Peer-reviewed
+<div align="center">
+
+## International Peer-reviewed journal
+
+First author (*Co-first author): 7  
+Co-author: 4  
+
+</div>
 
 #### 2024
 
