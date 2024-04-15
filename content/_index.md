@@ -23,13 +23,12 @@ address:
     street: "8050 Ikarashi 2-no-cho, Nishi-ku, Niigata"
     postal_code: "950-2181"
     locality: Niigata, Japan
-    email: mookad [@] agr.niigata-u.ac.jp
   -
     name: "University of Zurich"
     street: "Wintherthurerstrasse 190"
     postal_code: "8057"
     locality: Zurich, Switzerland
-
+email: mookad [@] agr.niigata-u.ac.jp
 # === Optional fields ===
 # Add an email with a mailto: hyperlink
 # email: aaaa@example.com
