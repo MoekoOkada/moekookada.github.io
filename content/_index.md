@@ -28,7 +28,6 @@ address:
     street: "Wintherthurerstrasse 190"
     postal_code: "8057"
     locality: Zurich, Switzerland
-email: mookad [@] agr.niigata-u.ac.jp
 # === Optional fields ===
 # Add an email with a mailto: hyperlink
 # email: aaaa@example.com
@@ -39,4 +38,5 @@ email: mookad [@] agr.niigata-u.ac.jp
 
 ---
 
-I am interested in allopolyploidization, reproductive isolation, biotic/abiotic stress response of wheat and its wild relatives.
+I am interested in allopolyploidization, reproductive isolation, biotic/abiotic stress response of wheat and its wild relatives.  
+Contact: mookad [@] agr.niigata-u.ac.jp (Please change [@] to @)  
