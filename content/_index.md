@@ -23,11 +23,6 @@ address:
     street: "8050 Ikarashi 2-no-cho, Nishi-ku, Niigata"
     postal_code: "950-2181"
     locality: Niigata, Japan
-  -
-    name: "University of Zurich"
-    street: "Wintherthurerstrasse 190"
-    postal_code: "8057"
-    locality: Zurich, Switzerland
 
 # === Optional fields ===
 # Add an email with a mailto: hyperlink

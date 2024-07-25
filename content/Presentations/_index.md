@@ -7,6 +7,10 @@ hideLastMod = true
 
 ## International Conference
 
+#### 2024
+
+- **M. Okada**, J. Sun, T. Tameshige, M. Hatakeyama, R. Shimizu-Inatsugi, S. Takumi†, J. Sese, K.K. Shimizu (202403) Effects of Allopolyploidization on Homoeologous Gene Expression under Cold Treatment in Synthetic Hexaploid Wheat. KAAB international symposium, Niigata University (Oral)
+
 #### 2023
 
 - **M. Okada**. Effects of allopolyploidization on homoeologous gene expression in synthetic hexaploids. Polyploid evolutionary genomics: challenges and opportunities, July 2023, Fribourg, Switzerland. (Oral)
