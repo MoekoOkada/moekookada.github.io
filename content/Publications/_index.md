@@ -12,7 +12,7 @@ Co-author: 4
 
 #### 2024
 
-1. **(NEW!)** In Son\*, Nozomi Kasazumi\*, **M. Okada**\*, Shigeo Takumi, Kentaro Yoshida (2024) Discrepancy of flowering time between genetically close sublineages of *Aegilops umbellulata* Zhuk. **Scientific Reports** 14, 7437 (*: equally contribution) [https://doi.org/10.1038/s41598-024-57935-w](https://doi.org/10.1038/s41598-024-57935-w)
+1. **(NEW!)** I. Son\*, N. Kasazumi\*, **M. Okada**\*, S. Takumi, K. Yoshida (2024) Discrepancy of flowering time between genetically close sublineages of *Aegilops umbellulata* Zhuk. **Scientific Reports** 14, 7437 (*: equally contribution) [https://doi.org/10.1038/s41598-024-57935-w](https://doi.org/10.1038/s41598-024-57935-w)
 
 #### 2023
 
