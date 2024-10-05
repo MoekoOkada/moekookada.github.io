@@ -7,7 +7,7 @@ hideLastMod = true
 
 ## International Peer-reviewed journal
 
-First author (*Co-first author): 7  
+First author (*Co-first author): 6  
 Co-author: 4  
 
 #### 2024
@@ -26,21 +26,20 @@ Co-author: 4
 #### 2020
 
 5. **M. Okada**, A Michikawa, K. Yoshida, K Nagaki, T.M. Ikeda, S. Takumi (2020) Phenotypic effects of the U-genome variation in nascent synthetic hexaploids derived from interspecific crosses between durum wheat and its diploid relative *Aegilops umbellulata*. **PLoS One**, 15: e0231129. doi:10.1371/journal.pone.0231129 [https://doi.org/10.1371/journal.pone.0231129](https://doi.org/10.1371/journal.pone.0231129)
-6. **M. Okada**, A Michikawa, K. Yoshida, K Nagaki, T.M. Ikeda, S. Takumi (2020) Phenotypic effects of the U-genome variation in nascent synthetic hexaploids derived from interspecific crosses between durum wheat and its diploid relative *Aegilops umbellulata*. **PLoS One**, 15: e0231129. doi:10.1371/journal.pone.0231129 [https://doi.org/10.1371/journal.pone.0231129](https://doi.org/10.1371/journal.pone.0231129)  
 
 #### 2019
 
-7. A. Michikawa, K. Yoshida, **M. Okada**, K. Sato, S. Takumi (2019) Genome-wide polymorphisms from RNA sequencing assembly of leaf transcripts facilitate phylogenetic analysis and molecular marker development in wild einkorn wheat. **Molecular Genetics and Genomics**, 294: 1327-1341. [https://doi.org/10.1007/s00438-019-01581-9](https://doi.org/10.1007/s00438-019-01581-9)
+6. A. Michikawa, K. Yoshida, **M. Okada**, K. Sato, S. Takumi (2019) Genome-wide polymorphisms from RNA sequencing assembly of leaf transcripts facilitate phylogenetic analysis and molecular marker development in wild einkorn wheat. **Molecular Genetics and Genomics**, 294: 1327-1341. [https://doi.org/10.1007/s00438-019-01581-9](https://doi.org/10.1007/s00438-019-01581-9)
 
 #### 2018
 
-8. **M. Okada**, K. Yoshida, R. Nishijima, A. Michikawa, Y. Motoi, K. Sato, S. Takumi (2018) RNA-seq analysis reveals considerable genetic diversity and provides genetic markers saturating all chromosomes in the diploid wild wheat relative *Aegilops umbellulata*. **BMC Plant Biology**, 18: 271. [https://doi.org/10.1186/s12870-018-1498-8](https://doi.org/10.1186/s12870-018-1498-8)  
-9. **M. Okada**, TM Ikeda, K. Yoshida, S. Takumi (2018) Effect of the U genome on grain hardness in nascent synthetic hexaploids derived from interspecific hybrids between durum wheat and *Aegilops umbellulata*. **Journal of Cereal Science**, 83: 153-161. [https://doi.org/10.1016/j.jcs.2018.08.011](https://doi.org/10.1016/j.jcs.2018.08.011)  
+7. **M. Okada**, K. Yoshida, R. Nishijima, A. Michikawa, Y. Motoi, K. Sato, S. Takumi (2018) RNA-seq analysis reveals considerable genetic diversity and provides genetic markers saturating all chromosomes in the diploid wild wheat relative *Aegilops umbellulata*. **BMC Plant Biology**, 18: 271. [https://doi.org/10.1186/s12870-018-1498-8](https://doi.org/10.1186/s12870-018-1498-8)  
+8. **M. Okada**, TM Ikeda, K. Yoshida, S. Takumi (2018) Effect of the U genome on grain hardness in nascent synthetic hexaploids derived from interspecific hybrids between durum wheat and *Aegilops umbellulata*. **Journal of Cereal Science**, 83: 153-161. [https://doi.org/10.1016/j.jcs.2018.08.011](https://doi.org/10.1016/j.jcs.2018.08.011)  
 
 #### 2017
 
-10. **M. Okada**, K. Yoshida, and S. Takumi (2017) Hybrid incompatibilities in intraspecific crosses between tetraploid wheat and its wild diploid relative *Aegilops umbellulata*. **Plant Molecular Biology**, 95: 625-645. [https://doi.org/10.1007/s11103-017-0677-6](https://doi.org/10.1007/s11103-017-0677-6) 
-11. J.C.M. Iehisa, **M. Okada**, K. Sato and S. Takumi (2017) Detection of splicing variants in the leaf and spike transcripts of wild diploid wheat *Aegilops tauschii* and transmission of the splicing patterns to synthetic hexaploid wheat. **Plant Gene**, 9: 6-12.   
+9. **M. Okada**, K. Yoshida, and S. Takumi (2017) Hybrid incompatibilities in intraspecific crosses between tetraploid wheat and its wild diploid relative *Aegilops umbellulata*. **Plant Molecular Biology**, 95: 625-645. [https://doi.org/10.1007/s11103-017-0677-6](https://doi.org/10.1007/s11103-017-0677-6) 
+10. J.C.M. Iehisa, **M. Okada**, K. Sato and S. Takumi (2017) Detection of splicing variants in the leaf and spike transcripts of wild diploid wheat *Aegilops tauschii* and transmission of the splicing patterns to synthetic hexaploid wheat. **Plant Gene**, 9: 6-12.   
   [https://doi.org/10.1016/j.plgene.2016.11.002](https://doi.org/10.1016/j.plgene.2016.11.002)  
 
 ## 英文（査読なし）
