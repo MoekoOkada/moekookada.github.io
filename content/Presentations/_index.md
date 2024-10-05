@@ -9,6 +9,7 @@ hideLastMod = true
 
 #### 2024
 
+- **M. Okada**, J. Sun, T. Tameshige, M. Hatakeyama, R. Shimizu-Inatsugi, S. Takumi†, J. Sese, K.K. Shimizu (202409) Alteration of Homoeologous Gene Expression by Allopolyploidization: an Example of Cold Response. The 3rd International Wheat Congress, Perth, Australia (Oral)
 - **M. Okada**, J. Sun, T. Tameshige, M. Hatakeyama, R. Shimizu-Inatsugi, S. Takumi†, J. Sese, K.K. Shimizu (202403) Effects of Allopolyploidization on Homoeologous Gene Expression under Cold Treatment in Synthetic Hexaploid Wheat. KAAB international symposium, Niigata University (Oral)
 
 #### 2023
