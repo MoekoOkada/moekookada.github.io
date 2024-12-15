@@ -5,7 +5,6 @@ name: "Moeko Okada"
 # Your profile picture
 imgname: 
   name: "img/AegilopsUmbellulata.png"
-  alt: "Picture of me"
   type: image/png
 # More sources can be added (optional) using 
 # imgOther:
