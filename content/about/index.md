@@ -24,7 +24,7 @@ hideLastMod = true
 - 2016 Apr. – 2018 Mar.     
   - Graduate School of Agricultural Science, Kobe University, Japan (Master)                       
 - 2012 Apr. – 2016 Mar.     
-  - Faculty of Biological Science, University of Tsukuba, Japan (Bachelor)                         
+  - Faculty of  Agriculture, Kobe University, Japan (Bachelor)                         
 
 ## Awards
 
