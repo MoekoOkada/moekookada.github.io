@@ -20,12 +20,13 @@ css = ["css/style.css"]
 2012 Apr. – 2016 Mar.&emsp;&emsp;Faculty of  Agriculture, Kobe University, Japan  
 2016 Apr. – 2018 Mar.&emsp;&emsp;Graduate School of Agricultural Science, Kobe University, Japan  
 2018 Apr. – 2021 Mar.&emsp;&emsp;Graduate School of Agricultural Science, Kobe University, Japan  
-2019 Nov. ~ 2020 Oct.&emsp;&emsp;Invited Visiting Student, Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland  
+2019 Nov. ~ 2020 Oct.&emsp;&emsp;Invited Visiting Student, 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland  
 2020 Apr. ~ 2021 Mar.&emsp;&emsp;JSPS research fellow DC2  
 2021 Apr. ~ 2022 Mar.&emsp;&emsp;JSPS research fellow PD                                      
 2022 Apr. ~ 2023 Mar.&emsp;&emsp;Kihara Institute of Biological Research, Yokohama City University, Japan  
 2022 Jul. ~ 2023 Sep.&emsp;&emsp;Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland  
-2023 Apr. ~ &emsp;&emsp;&emsp;&emsp;Institute of Science and Technolog, and Faculty of Agriculture, Niigata University, Japan  
+2023 Apr. ~ &emsp;&emsp;Institute of Science and Technolog, and Faculty of Agriculture, Niigata University, Japan  
 
 ## Awards
 
