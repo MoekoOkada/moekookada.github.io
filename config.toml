@@ -7,6 +7,7 @@ publishDir = "docs"
 
 # Language used
 languageCode = "ja-jp"
+
 # Website title
 title = "Moeko Okada"
 # Theme used
@@ -89,3 +90,9 @@ pygmentsStyle = "native"
 # Sitemap location (default is /sitemap.xml)
 [sitemap]
   filename = "sitemap.xml"
+
+# markup
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,41 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Moeko Okada</title>
-    <link>https://MoekoOkada/moekookada.github.io/</link>
+    <link>http://localhost:1313/moekookada.github.io/</link>
     <description>Recent content on Moeko Okada</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Wed, 24 May 2023 19:10:45 +0200</lastBuildDate><atom:link href="https://MoekoOkada/moekookada.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>ショクダイオオコンニャクの開花</title>
-      <link>https://MoekoOkada/moekookada.github.io/%E3%82%B7%E3%83%A7%E3%82%AF%E3%83%80%E3%82%A4%E3%82%AA%E3%82%AA%E3%82%B3%E3%83%B3%E3%83%8B%E3%83%A3%E3%82%AF%E3%81%AE%E9%96%8B%E8%8A%B1/</link>
-      <pubDate>Wed, 24 May 2023 19:10:45 +0200</pubDate>
-      
-      <guid>https://MoekoOkada/moekookada.github.io/%E3%82%B7%E3%83%A7%E3%82%AF%E3%83%80%E3%82%A4%E3%82%AA%E3%82%AA%E3%82%B3%E3%83%B3%E3%83%8B%E3%83%A3%E3%82%AF%E3%81%AE%E9%96%8B%E8%8A%B1/</guid>
-      <description>チューリッヒの植物園にて、ショクダイオオコンニャク(Amorphophallus titanum)が開花したとのことで見てきました。
-2019年以来の開花ということで、植物園は普段18時閉園なのを21時までに延長しての対応。
-日本でもつくば植物園などが育てているのですが、これまで開花の時期を逃し続けてきたので、今回チューリッヒで、しかもラボから30分くらいで行ける距離で実際にみられたのはラッキーでした。
-どうやらスイスでも一大ニュースになっていたようで、植物園の温室の前には長蛇の列が。
-温室に入る前からわかる腐敗臭（生ゴミのような匂い）。かなり臭かったですが、人間とはえらいもので並んでいるうちに慣れていました笑
-スマトラ島にのみ自生するサトイモ科のショクダイオオコンニャク。
-現在は絶滅危惧種に指定されています。
-ショクダイオオコンニャクは他殖性（自分の花粉で受粉ができない性質）。
-というのも、めしべは開花当日しか花粉を受け付けないのに、雄蕊は開花2日目から花粉を放出するのでどうやっても自分では受粉できないというメカニズムなんだそうです。
-今回の開花に合わせてショクダイオオコンニャクを育てている近隣の植物園の職員さんが、次回の開花に備えて花粉を採取しに来たと聞きました。
-多分この人。この距離はかなり臭そう。。。
-花粉は凍結保存できるようです。方法を詳しく知りたいのでまた今度つくば植物園に行った時に聞いてみようと思います。
-おかだ</description>
-    </item>
     
-    <item>
-      <title></title>
-      <link>https://MoekoOkada/moekookada.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://MoekoOkada/moekookada.github.io/about/</guid>
-      <description>CV 2023 Apr. ~ Institute of Science and Technolog, and Faculty of Agriculture, Niigata University, Japan 2022 Jul. ~ Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland 2022 Apr. ~ 2023 Mar. Kihara Institute of Biological Research, Yokohama City University, Japan 2021 Apr. ~ 2022 Mar. JSPS research fellow PD 2020 Apr. ~ 2021 Mar. JSPS research fellow DC2 2019 Nov. ~ 2020 Oct. Invited Visiting Student, Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland 2018 Apr.</description>
-    </item>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 16 Nov 2024 15:00:00 +0200</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/moekookada.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>
