@@ -10,25 +10,27 @@ css = ["css/style.css"]
 
 2012年4月 – 2016年3月&emsp;&emsp;&emsp;神戸大学農学部  
 2016年4月 – 2018年3月&emsp;&emsp;&emsp;神戸大学大学院農学研究科　博士課程前期課程  
-2018年4月 – 2021年3月&emsp;&emsp;&emsp;神戸大学大学院農学研究科　博士課程後期課程
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;（指導教員：宅見薫雄、吉田健太郎）  
-2019年11月 – 2020年10月&emsp;&emsp;チューリッヒ大学(スイス)　Invited Visitin Student 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; (受け入れ：Kentaro K. Shimizu)  
+2018年4月 – 2021年3月&emsp;&emsp;&emsp;神戸大学大学院農学研究科　博士課程後期課程  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;（指導教員：宅見薫雄、吉田健太郎）  
+2019年11月 – 2020年10月&emsp;&emsp;チューリッヒ大学(スイス)　Invited Visitin Student  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(受け入れ：Kentaro K. Shimizu)  
 2020年4月 – 2021年3月&emsp;&emsp;&emsp;日本学術振興会 特別研究員（DC2, 受け入れ：宅見薫雄、吉田健太郎）  
 2021年4月 – 2022年3月&emsp;&emsp;&emsp;日本学術振興会 特別研究員（PD, DC2からの切替、受け入れ：松岡由浩）  
-2022年4月 – 2023年3月&emsp;&emsp;&emsp;横浜市立大学木原生物学研究所 特任助教 / 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;チューリッヒ大学（スイス）Post Doctoral Researcher  
+2022年4月 – 2023年3月&emsp;&emsp;&emsp;横浜市立大学木原生物学研究所 特任助教 /  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;チューリッヒ大学（スイス）Post Doctoral Researcher  
 2023年4月 – 現在&emsp;&emsp;&emsp;&emsp;新潟大学農学部　助教    
 
 2012 Apr. – 2016 Mar.&emsp;&emsp;Faculty of  Agriculture, Kobe University, Japan  
 2016 Apr. – 2018 Mar.&emsp;&emsp;Graduate School of Agricultural Science, Kobe University, Japan  
 2018 Apr. – 2021 Mar.&emsp;&emsp;Graduate School of Agricultural Science, Kobe University, Japan  
 2019 Nov. ~ 2020 Oct.&emsp;&emsp;Invited Visiting Student,  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland  
+&emsp;&emsp;&emsp;&emsp;Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland  
 2020 Apr. ~ 2021 Mar.&emsp;&emsp;JSPS research fellow DC2  
 2021 Apr. ~ 2022 Mar.&emsp;&emsp;JSPS research fellow PD                                      
-2022 Apr. ~ 2023 Mar.&emsp;&emsp;Kihara Institute of Biological Research, Yokohama City University, Japan  
-2022 Jul. ~ 2023 Sep.&emsp;&emsp;Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland  
+2022 Apr. ~ 2023 Mar.&emsp;&emsp;Project-related Assistant Professor  
+&emsp;&emsp;&emsp;&emsp;Kihara Institute of Biological Research, Yokohama City University, Japan  
+2022 Jul. ~ 2023 Sep.&emsp;&emsp;Post Doctoral Researcher  
+&emsp;&emsp;&emsp;&emsp;Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland  
 2023 Apr. ~ &emsp;Institute of Science and Technolog, and Faculty of Agriculture, Niigata University, Japan  
 
 ## Awards
@@ -39,7 +41,7 @@ css = ["css/style.css"]
   <li>2019年7月&emsp;&emsp;第14回ロレアルーユネスコ 女性科学者日本奨励賞 生命科学分野</li>
   <li>2018年9月&emsp;&emsp;第1回植物インフォマティクス研究会　優秀発表賞</li>
   <li>2018年3月&emsp;&emsp;六篠学術奨励賞</li>
-  <li>2017年12月&emsp;&emsp;第12回麦類研究会　優秀ポスター賞</li>
+  <li>2017年12月&emsp;&emsp;第12回ムギ類研究会　優秀ポスター賞</li>
   <li>2016年3月&emsp;&emsp;六篠学生賞</li>
 </ol>
 
