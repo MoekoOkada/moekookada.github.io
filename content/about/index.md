@@ -48,13 +48,13 @@ css = ["css/style.css"]
 </ol>
 
 <ol reversed>
-  <li>2019 Sep.&emsp;&emsp;Award for excellent presentation in the 135th Annual Meeting of Japanese Society of Breeding</li>
-  <li>2019 Sep.&emsp;&emsp;Award for excellent presentation in the 2nd Plant Informatics Workshop</li>
-  <li>2019 Jul.&emsp;&emsp;The 14th L’Oréal-Unesco for women in Science Japan Encouragement Award in Life Science</li>
-  <li>2018 Sep.&emsp;&emsp;Award for excellent presentation in the 1st Plant Informatics Workshop</li>
-  <li>2018 Mar.&emsp;&emsp;Award for excellent student in Graduate School of Agricultural Science, Kobe University</li>
-  <li>2017 Dec.&emsp;&emsp;Award for excellent poster presentation in the 12nd Wheat Workshop</li>
-  <li>2016 Mar.&emsp;&emsp;Award for excellent student in Faculty of Agriculture, Kobe University</li>
+  <li>2019 Sep.&emsp;Award for excellent presentation in the 135th Annual Meeting of Japanese Society of Breeding</li>
+  <li>2019 Sep.&emsp;Award for excellent presentation in the 2nd Plant Informatics Workshop</li>
+  <li>2019 Jul.&emsp;The 14th L’Oréal-Unesco for women in Science Japan Encouragement Award in Life Science</li>
+  <li>2018 Sep.&emsp;Award for excellent presentation in the 1st Plant Informatics Workshop</li>
+  <li>2018 Mar.&emsp;Award for excellent student in Graduate School of Agricultural Science, Kobe University</li>
+  <li>2017 Dec.&emsp;Award for excellent poster presentation in the 12nd Wheat Workshop</li>
+  <li>2016 Mar.&emsp;Award for excellent student in Faculty of Agriculture, Kobe University</li>
 </ol>
 
 ## Grants / Funds / Scholarships
