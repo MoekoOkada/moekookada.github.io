@@ -327,24 +327,55 @@ legend {
   padding: 0;
 }
 
-ol,
-menu{
+ul {
+  list-style: disc;
+}
+
+ol{
   list-style: decimal !important;
   /* 番号付きリストを有効にする */
 }
 
 ol[reversed]{
-  list-style: decimal;
+  list-style: decimal !important;
   /* 降順でも番号付きリストを適用 */
 }
 
-
-ul{
-  list-style: none;
-  margin: 0;
-  padding: 0;
+.cv-section ul {
+  list-style-type: disc;
+  /* 箇条書きマーカー */
+  /* グローバルな設定を上書き */
 }
 
+.awards-section ol {
+  list-style: decimal;
+  /* 番号付きリスト */
+}
+
+.awards-section ol[reversed] {
+  list-style: decimal !important;
+}
+
+.grants-section ol {
+  list-style: decimal;
+  /* 番号付きリスト */
+}
+
+.grants-section ol[reversed] {
+  list-style: decimal !important;
+}
+
+.awards-section li {
+  list-style-type: decimal;
+}
+
+.grants-section li {
+  list-style-type: decimal;
+}
+
+.publication-section li {
+  list-style-type: decimal !important;
+}
 
 /*
 Prevent resizing textareas horizontally by default.
@@ -543,10 +574,6 @@ pre code {
 pre code {
   font-size: 0.875rem;
   line-height: 1.25rem;
-}
-
-li {
-  list-style-type: disc;
 }
 
 ul,  ol {
@@ -873,6 +900,14 @@ blockquote p {
   .container {
     max-width: 50rem;
   }
+}
+
+.custom-main ol {
+  list-style: decimal;
+}
+
+.custom-main ul {
+  list-style: disc;
 }
 
 .sr-only {
@@ -1250,6 +1285,7 @@ blockquote p {
 .transform {
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
+
 
 .cursor-pointer {
   cursor: pointer;
