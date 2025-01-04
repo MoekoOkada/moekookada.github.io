@@ -4,7 +4,7 @@
     {{ partial "head.html" . }}
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
   </head>
-  <body>
+  <body class="{{ .Type }}{{ with .Page.File }} {{ .BaseFileName }}{{ end }}">
     <header class="md:px-0 px-2">
         {{ partial "header.html" . }}
     </header>
@@ -13,6 +13,7 @@
           role="main">
     {{ block "main" . }}
     {{/* Main content of the page */}}
+    <main class="custom-main">
     {{ end }}
     </main>
     {{ partial "footer.html" . }}
