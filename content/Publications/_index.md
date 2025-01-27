@@ -12,10 +12,16 @@ Co-author: 4
 
 <section class="publication-section">
 
+#### 2025
+
+  <ol reversed start=11>
+    <li><b>(NEW!)</b> Y. Nomura, <b>M. Okada</b>, T. Tameshige, S. Takenaka, K.K. Shimizu, S. Nasuda, A.J. Nagano (2025) Subgenome-informed statistical modeling of transcriptomes in 25 common wheat accessions reveals cis- and trans-regulation architectures. <b>Plant and Cell Physiology</b> pcaf011 [https://doi.org/10.1093/pcp/pcaf011](https://doi.org/10.1093/pcp/pcaf011)</li>
+  </ol>
+
 #### 2024
 
   <ol reversed start=10>
-    <li><b>(NEW!)</b> I. Son*, N. Kasazumi*, <b>M. Okada</b>*, S. Takumi, K. Yoshida (2024) Discrepancy of flowering time between genetically close sublineages of <i>Aegilops umbellulata</i> Zhuk. <b>Scientific Reports</b> 14, 7437 (*: equally contribution) [https://doi.org/10.1038/s41598-024-57935-w](https://doi.org/10.1038/s41598-024-57935-w)</li>
+    <li>I. Son*, N. Kasazumi*, <b>M. Okada</b>*, S. Takumi, K. Yoshida (2024) Discrepancy of flowering time between genetically close sublineages of <i>Aegilops umbellulata</i> Zhuk. <b>Scientific Reports</b> 14, 7437 (*: equally contribution) [https://doi.org/10.1038/s41598-024-57935-w](https://doi.org/10.1038/s41598-024-57935-w)</li>
   </ol>
 
 #### 2023

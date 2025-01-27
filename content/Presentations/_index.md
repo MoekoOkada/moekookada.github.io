@@ -7,6 +7,10 @@ hideLastMod = true
 
 ## International Conference
 
+#### 2025
+
+- **M. Okada**, I. Son, N. Kasazumi, S. Takumi, K.K. Shimizu, K. Yoshida (202501) Genome Assembly and Population Genomics in *Aegilops umbellulata* Zhuk. The 32nd Plant and Animal Genome Conference, San Diego, USA (oral, **invited**)
+
 #### 2024
 
 - **M. Okada**, J. Sun, T. Tameshige, M. Hatakeyama, R. Shimizu-Inatsugi, S. Takumi†, J. Sese, K.K. Shimizu (202409) Alteration of Homoeologous Gene Expression by Allopolyploidization: an Example of Cold Response. The 3rd International Wheat Congress, Perth, Australia (Oral)
