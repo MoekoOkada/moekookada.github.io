@@ -40,25 +40,25 @@ pygmentsStyle = "native"
     name = "Home"
     url = "/"
     weight = 1
-
-　[[menu.main]]
+    
+  [[menu.main]]
     name = "Posts"
     url = "/post/"
     weight = -110
 
-　# This links to the page about.md
-　[[menu.main]]
+  # This links to the page about.md
+  [[menu.main]]
     name = "About"
     url = "/about/"
     weight = -150
 
-　# Make the tags and categories pages accessible directly from the navbar.
-　[[menu.main]]
+  # Make the tags and categories pages accessible directly from the navbar.
+  [[menu.main]]
     name = "Publications"
     url = "/publications/"
     weight = -130
 
-　[[menu.main]]
+  [[menu.main]]
     name = "Presentations"
     url = "/presentations/"
     weight = -120
