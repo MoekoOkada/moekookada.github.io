@@ -62,6 +62,12 @@ Co-author: 4
     <li>J.C.M. Iehisa, <b>M. Okada</b>, K. Sato and S. Takumi (2017) Detection of splicing variants in the leaf and spike transcripts of wild diploid wheat <i>Aegilops tauschii</i> and transmission of the splicing patterns to synthetic hexaploid wheat. <b>Plant Gene</b>, 9: 6-12. [https://doi.org/10.1016/j.plgene.2016.11.002](https://doi.org/10.1016/j.plgene.2016.11.002)</li>
   </ol>
 
+  ## Reviews & Books
+  
+  <ol reversed>
+    <li>**<u>M. Okada</u>**, K.K. Shimizu. (2024). Wheat: Recent Advances in Genomics to Explore the History of Domestication and Polyploidization. In: Osada, N., Kumagai, M., Suzuki, H., Endo, M. (eds) Phylogeographic History of Plants and Animals Coexisting with Humans in Asia. Evolutionary Studies. Springer, Singapore. https://doi.org/10.1007/978-981-97-6887-5_10</li>
+  </ol>
+
   ## 英文（査読なし）
 
   <ol reversed>
