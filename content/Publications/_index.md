@@ -8,7 +8,7 @@ hideLastMod = true
 ## International Peer-reviewed journal
 
 First author (*Co-first author): 6  
-Co-author: 4  
+Co-author: 5  
 
 <section class="publication-section">
 
