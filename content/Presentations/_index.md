@@ -9,6 +9,7 @@ hideLastMod = true
 
 #### 2025
 
+- **Moeko Okada**, Jianquiang Sun, Toshiaki Tameshige, Masaomi Hatakeyama, Rie Shimizu-Inatsugi, Shigeo Takumi†, Jun Sese, Kentaro K. Shimizu  (202505) Impact of Allopolyploidization on Homoeologous Gene Expression in Wheat: Insights from Cold Response. Plant Reproductive Development and Genomics, Awaji, Japan (oral)
 - **M. Okada**, I. Son, N. Kasazumi, S. Takumi, K.K. Shimizu, K. Yoshida (202501) Genome Assembly and Population Genomics in *Aegilops umbellulata* Zhuk. The 32nd Plant and Animal Genome Conference, San Diego, USA (oral, **invited**)
 
 #### 2024
