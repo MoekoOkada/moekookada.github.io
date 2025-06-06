@@ -40,11 +40,6 @@ pygmentsStyle = "native"
     name = "Home"
     url = "/"
     weight = 1
-    
-  [[menu.main]]
-    name = "Posts"
-    url = "/post/"
-    weight = -110
 
   # This links to the page about.md
   [[menu.main]]
@@ -62,6 +57,17 @@ pygmentsStyle = "native"
     name = "Presentations"
     url = "/presentations/"
     weight = -120
+  
+  [[menu.main]]
+    name = "Posts"
+    url = "/post/"
+    weight = -110
+
+  [[menu.main]]
+    name = "Members"
+    url = "/members/"
+    weight = -100
+
 
 # Site wide params and SEO
 [params]
