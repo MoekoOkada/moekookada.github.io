@@ -1,9 +1,9 @@
----
-title: "MEMBERS"
-date: "2025-06-07T09:00:00+02:00"
-# draft: true
-author: "Moeko Okada"
----
++++
+title = "MEMBERS"
+hideAuthor = true
+hideDate = true
+hideLastMod = true
++++
 
 [岡田萌子](https://moekookada.github.io/about/)  
 
