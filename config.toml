@@ -36,9 +36,8 @@ pygmentsStyle = "native"
 # This links to content within the content/post/ folder
 [menu]
   [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
+    identifier = "Members"
+    url = "/members/"
     weight = 1
 
   # This links to the page about.md
@@ -62,12 +61,6 @@ pygmentsStyle = "native"
     name = "Posts"
     url = "/post/"
     weight = -110
-
-  [[menu.main]]
-    name = "Members"
-    url = "/members/"
-    weight = -100
-
 
 # Site wide params and SEO
 [params]
