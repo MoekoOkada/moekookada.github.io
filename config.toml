@@ -15,7 +15,7 @@ theme = "hugo-astatine-theme"
 
 preserveTaxonomyNames = true
 rssLimit = 10
-paginate = 10
+pagination.pagerSize = 10
 
 # Code highlighting
 pygmentsCodefences = true
@@ -36,8 +36,9 @@ pygmentsStyle = "native"
 # This links to content within the content/post/ folder
 [menu]
   [[menu.main]]
-    identifier = "Members"
-    url = "/members/"
+    identifier = "home"
+    name = "Home"
+    url = "/"
     weight = 1
 
   # This links to the page about.md
@@ -61,6 +62,12 @@ pygmentsStyle = "native"
     name = "Posts"
     url = "/post/"
     weight = -110
+
+  [[menu.main]]
+    name = "Members"
+    url = "/members/"
+    weight = -100
+
 
 # Site wide params and SEO
 [params]
