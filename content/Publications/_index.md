@@ -65,7 +65,7 @@ Co-author: 5
   ## Reviews & Books
   
   <ol reversed>
-    <li>**<u>M. Okada</u>**, K.K. Shimizu. (2024). Wheat: Recent Advances in Genomics to Explore the History of Domestication and Polyploidization. In: Osada, N., Kumagai, M., Suzuki, H., Endo, M. (eds) Phylogeographic History of Plants and Animals Coexisting with Humans in Asia. Evolutionary Studies. Springer, Singapore. https://doi.org/10.1007/978-981-97-6887-5_10</li>
+    <li><b>M. Okada</b>, K.K. Shimizu. (2024). Wheat: Recent Advances in Genomics to Explore the History of Domestication and Polyploidization. In: Osada, N., Kumagai, M., Suzuki, H., Endo, M. (eds) Phylogeographic History of Plants and Animals Coexisting with Humans in Asia. Evolutionary Studies. Springer, Singapore. https://doi.org/10.1007/978-981-97-6887-5_10</li>
   </ol>
 
   ## 英文（査読なし）
@@ -80,8 +80,8 @@ Co-author: 5
   <ol reversed>
     <li>角井 宏行, 南川 舞, <b>岡田 萌子</b>, 佐久間 俊, 岡田 眞銀, 増田 佳苗, 小松田 隆夫　(2024) コロナ・ポストコロナ期の海外留学・在外研究最新事情. 育種学研究 [https://doi.org/10.1270/jsbbr.26.w06](https://doi.org/10.1270/jsbbr.26.w06)</li>
     <li>梨木 聡人, 山森 晃一, 古村 翔也, 工藤 葵, 桒田 理恵子, 竹内 亜美, 清水 浩晶, 小川 泰生, <b>岡田 萌子</b> (2024) 若手研究者による農学的興味の広げ合い第3回～これからの農学とは～ (育種学会若手の会). 育種学研究 [https://doi.org/10.1270/jsbbr.26.W04](https://doi.org/10.1270/jsbbr.26.W04)</li>
-    <li>徳山 芳樹, **岡田萌子**, 黒木 健, 古村 翔也, 佐藤 萌子, 梨木 聡人, 増田 佳苗, 松尾 宏樹, 山森 晃一, Ji Xiaotong (2023) 若手研究者による農学的興味の広げ合い第2回～育種における植物フェノタイピング技術の応用～（育種学会若手の会）. 育種学研究 25(1) 73-77 [https://doi.org/10.1270/jsbbr.25.W07](https://doi.org/10.1270/jsbbr.25.W07)</li>
-    <li>松尾宏樹, **岡田萌子**, 山森晃一. 佐藤萌子. 柳江莉那, 元木航, 増田佳苗 (2022) 若手研究者による農学的興味の広げ合い 第1回～植物の性と交配～（育種学会若手の会）. 育種学研究  [https://doi.org/10.1270/jsbbr.24.W01](https://doi.org/10.1270/jsbbr.24.W01)</li>
+    <li>徳山 芳樹, <b>岡田 萌子</b>, 黒木 健, 古村 翔也, 佐藤 萌子, 梨木 聡人, 増田 佳苗, 松尾 宏樹, 山森 晃一, Ji Xiaotong (2023) 若手研究者による農学的興味の広げ合い第2回～育種における植物フェノタイピング技術の応用～（育種学会若手の会）. 育種学研究 25(1) 73-77 [https://doi.org/10.1270/jsbbr.25.W07](https://doi.org/10.1270/jsbbr.25.W07)</li>
+    <li>松尾宏樹, <b>岡田 萌子</b>, 山森晃一. 佐藤萌子. 柳江莉那, 元木航, 増田佳苗 (2022) 若手研究者による農学的興味の広げ合い 第1回～植物の性と交配～（育種学会若手の会）. 育種学研究  [https://doi.org/10.1270/jsbbr.24.W01](https://doi.org/10.1270/jsbbr.24.W01)</li>
   </ol>
 
 </section>
