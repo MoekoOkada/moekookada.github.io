@@ -15,7 +15,8 @@ Co-author: 6
 #### 2025
 
   <ol reversed start=12>
-    <li><b>(NEW!)</b> White B, Lux T, Rusholme-Pilcher R, Juhász A, Kaithakottil G, Duncan S, Simmonds J, Rees H, Wright J, Colmer J, Ward S, Joynson R, Coombes B, Irish N, Henderson S, Barker T, Chapman H, Catchpole L, Gharbi K, Bose U, <b>Okada M</b>, Handa H, Nasuda S, Shimizu KK, Gundlach H, Lang D, Naamati G, Legg EJ, Bharti AK, Colgrave ML, Haerty W, Uauy C, Swarbreck D, Borrill P, Poland JA, Krattinger SG, Stein N, Mayer KFX, Pozniak C, 10+ Wheat Genome Project, Spannagl M, Hall A (2025) *De novo* annotation reveals transcriptomic complexity across the hexaploid wheat pan-genome. <b>Nature Communications</b> [https://doi.org/10.1038/s41467-025-64046-1](https://doi.org/10.1038/s41467-025-64046-1)</li>
+    <li><b>(NEW!)</b> White B, Lux T, Rusholme-Pilcher R, Juhász A, Kaithakottil G, Duncan S, Simmonds J, Rees H, Wright J, Colmer J, Ward S, Joynson R, Coombes B, Irish N, Henderson S, Barker T, Chapman H, Catchpole L, Gharbi K, Bose U, <b>Okada M</b>, Handa H, Nasuda S, Shimizu KK, Gundlach H, Lang D, Naamati G, Legg EJ, Bharti AK, Colgrave ML, Haerty W, Uauy C, Swarbreck D, Borrill P, Poland JA, Krattinger SG, Stein N, Mayer KFX, Pozniak C, 10+ Wheat Genome Project, Spannagl M, Hall A (2025) <i>De novo</i> annotation reveals transcriptomic complexity across the hexaploid wheat pan-genome. <b>Nature Communications</b> 16:8538 [https://doi.org/10.1038/s41467-025-64046-1](https://doi.org/10.1038/s41467-025-64046-1)</li>
+    <br>
     <li>Nomura Y, <b>Okada M</b>, Tameshige T, Takenaka S, Shimizu KK, Nasuda S, Nagano AJ (2025) Subgenome-informed statistical modeling of transcriptomes in 25 common wheat accessions reveals cis- and trans-regulation architectures. <b>Plant and Cell Physiology</b> pcaf011 [https://doi.org/10.1093/pcp/pcaf011](https://doi.org/10.1093/pcp/pcaf011)</li>
   </ol>
 
@@ -29,6 +30,7 @@ Co-author: 6
 
   <ol reversed start=9>
     <li>J. Sun, <b>M. Okada</b>, T. Tameshige, R. Shimizu-Inatsugi, R. Akiyama, A. J. Nagano, J. Sese, K.K. Shimizu (2023) A low-coverage 3′ RNA-seq to detect homeolog expression in polyploid wheat. <b>NAR Genomics and Bioinformatics</b>, 5(3):lqad067. [https://doi.org/10.1093/nargab/lqad067](https://doi.org/10.1093/nargab/lqad067)</li>
+    <br>
     <li>A. Michikawa, <b>M. Okada</b>, T. M. Ikeda, K. Nagaki, K. Yoshida, S. Takumi (2023) Phenotypic effects of Am genomes in nascent synthetic hexaploids derived from interspecific crosses between durum and wild einkorn wheat. <b>PLoS One</b>, 18(4):e0284408. [https://doi.org/10.1371/journal.pone.0284408](https://doi.org/10.1371/journal.pone.0284408)</li>
   </ol>
 

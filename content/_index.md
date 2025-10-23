@@ -34,4 +34,4 @@ address:
 ---
 
 I am interested in allopolyploidization, reproductive isolation, biotic/abiotic stress response of wheat and its wild relatives.  
-Contact: mookad [@] agr.niigata-u.ac.jp (Please change [@] to @)  
+Contact: mookad [@] agr.niigata-u.ac.jp (Please change [@] to @, and include "BLE3" in the header of your email)  

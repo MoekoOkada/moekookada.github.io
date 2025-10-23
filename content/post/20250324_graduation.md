@@ -10,7 +10,7 @@ author: "Moeko Okada"
 
 うちのグループからは涌井さん、佐伯さんが無事に卒業。  
 
-![](img/my_post_folder/20250324_graduation.jpg)
+![](/img/my_post_folder/20250324_graduation.jpg)
 
 新天地での活躍も期待しています。
 
