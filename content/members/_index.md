@@ -24,7 +24,23 @@ hideLastMod = true
   </tr>
   <tr>
     <td style="padding-right: 8em;">遊佐彩乃</td>
-    <td>学部４年</td>
+    <td>学部３年</td>
+  </tr>
+  <tr>
+    <td style="padding-right: 8em;">今井小梅</td>
+    <td>学部３年</td>
+  </tr>
+  <tr>
+    <td style="padding-right: 8em;">伊東未来翔</td>
+    <td>学部３年</td>
+  </tr>
+  <tr>
+    <td style="padding-right: 8em;">山峰あかり</td>
+    <td>学部３年</td>
+  </tr>
+  <tr>
+    <td style="padding-right: 8em;">広野由華</td>
+    <td>学部３年</td>
   </tr>
 </table>
 
