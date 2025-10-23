@@ -8,20 +8,21 @@ hideLastMod = true
 ## International Peer-reviewed journal
 
 First author (*Co-first author): 6  
-Co-author: 5  
+Co-author: 6  
 
 <section class="publication-section">
 
 #### 2025
 
-  <ol reversed start=11>
-    <li><b>(NEW!)</b> Y. Nomura, <b>M. Okada</b>, T. Tameshige, S. Takenaka, K.K. Shimizu, S. Nasuda, A.J. Nagano (2025) Subgenome-informed statistical modeling of transcriptomes in 25 common wheat accessions reveals cis- and trans-regulation architectures. <b>Plant and Cell Physiology</b> pcaf011 [https://doi.org/10.1093/pcp/pcaf011](https://doi.org/10.1093/pcp/pcaf011)</li>
+  <ol reversed start=12>
+    <li><b>(NEW!)</b> White B, Lux T, Rusholme-Pilcher R, Juhász A, Kaithakottil G, Duncan S, Simmonds J, Rees H, Wright J, Colmer J, Ward S, Joynson R, Coombes B, Irish N, Henderson S, Barker T, Chapman H, Catchpole L, Gharbi K, Bose U, <b>Okada M</b>, Handa H, Nasuda S, Shimizu KK, Gundlach H, Lang D, Naamati G, Legg EJ, Bharti AK, Colgrave ML, Haerty W, Uauy C, Swarbreck D, Borrill P, Poland JA, Krattinger SG, Stein N, Mayer KFX, Pozniak C, 10+ Wheat Genome Project, Spannagl M, Hall A (2025) *De novo* annotation reveals transcriptomic complexity across the hexaploid wheat pan-genome. <b>Nature Communications</b> [https://doi.org/10.1038/s41467-025-64046-1](https://doi.org/10.1038/s41467-025-64046-1)</li>
+    <li>Nomura Y, <b>Okada M</b>, Tameshige T, Takenaka S, Shimizu KK, Nasuda S, Nagano AJ (2025) Subgenome-informed statistical modeling of transcriptomes in 25 common wheat accessions reveals cis- and trans-regulation architectures. <b>Plant and Cell Physiology</b> pcaf011 [https://doi.org/10.1093/pcp/pcaf011](https://doi.org/10.1093/pcp/pcaf011)</li>
   </ol>
 
 #### 2024
 
   <ol reversed start=10>
-    <li>I. Son*, N. Kasazumi*, <b>M. Okada</b>*, S. Takumi, K. Yoshida (2024) Discrepancy of flowering time between genetically close sublineages of <i>Aegilops umbellulata</i> Zhuk. <b>Scientific Reports</b> 14, 7437 (*: equally contribution) [https://doi.org/10.1038/s41598-024-57935-w](https://doi.org/10.1038/s41598-024-57935-w)</li>
+    <li>Son I, Kasazumi N, Okada M, Takumi S, Yoshida K (2024) Discrepancy of flowering time between genetically close sublineages of <i>Aegilops umbellulata</i> Zhuk. <b>Scientific Reports</b> 14, 7437 (*: equally contribution) [https://doi.org/10.1038/s41598-024-57935-w](https://doi.org/10.1038/s41598-024-57935-w)</li>
   </ol>
 
 #### 2023
