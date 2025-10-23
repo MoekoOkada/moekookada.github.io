@@ -9,7 +9,7 @@ author: "Moeko Okada"
 
 雨が心配されましたが、大きく崩れることなく、無事に計測、収穫を終えることができました。
 
-![](img/my_post_folder/20250624_TottoriHarvest.jpg)
+![](/img/my_post_folder/20250624_TottoriHarvest.jpg)
 
 面白い現象も見られ、学生２名も研究交流や作業を楽しんでくれたようで良かったです。
 

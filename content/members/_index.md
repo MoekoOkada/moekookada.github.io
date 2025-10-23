@@ -8,6 +8,9 @@ hideLastMod = true
 # MEMBERS
 
 [岡田萌子](https://moekookada.github.io/about/)  
+- [researchmap](https://researchmap.jp/okadamoeko)
+- [researchgate](https://www.researchgate.net/profile/Moeko-Okada?ev=hdr_xprf)
+- [google scholar](https://scholar.google.co.jp/citations?user=CperKBQAAAAJ&hl=ja)
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
