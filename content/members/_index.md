@@ -26,7 +26,8 @@ hideLastMod = true
     <td style="padding-right: 8em;">遊佐彩乃</td>
     <td>学部４年</td>
   </tr>
-  <br>
+  <tr>
+  </tr>
   <tr>
     <td style="padding-right: 8em;">今井小梅</td>
     <td>学部３年</td>

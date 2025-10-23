@@ -56,12 +56,14 @@ Co-author: 6
 
   <ol reversed start=4>
     <li><b>M. Okada</b>, K. Yoshida, R. Nishijima, A. Michikawa, Y. Motoi, K. Sato, S. Takumi (2018) RNA-seq analysis reveals considerable genetic diversity and provides genetic markers saturating all chromosomes in the diploid wild wheat relative <i>Aegilops umbellulata</i>. <b>BMC Plant Biology</b>, 18: 271. [https://doi.org/10.1186/s12870-018-1498-8](https://doi.org/10.1186/s12870-018-1498-8)</li> 
+    <br>
     <li><b>M. Okada</b>, TM Ikeda, K. Yoshida, S. Takumi (2018) Effect of the U genome on grain hardness in nascent synthetic hexaploids derived from interspecific hybrids between durum wheat and <i>Aegilops umbellulata</i>. <b>Journal of Cereal Science</b>, 83: 153-161. [https://doi.org/10.1016/j.jcs.2018.08.011](https://doi.org/10.1016/j.jcs.2018.08.011)</li>
   </ol>
 
 #### 2017
   <ol reversed>
     <li><b>M. Okada</b>, K. Yoshida, and S. Takumi (2017) Hybrid incompatibilities in intraspecific crosses between tetraploid wheat and its wild diploid relative <i>Aegilops umbellulata</i>. <b>Plant Molecular Biology</b>, 95: 625-645. [https://doi.org/10.1007/s11103-017-0677-6](https://doi.org/10.1007/s11103-017-0677-6)</li>
+    <br>
     <li>J.C.M. Iehisa, <b>M. Okada</b>, K. Sato and S. Takumi (2017) Detection of splicing variants in the leaf and spike transcripts of wild diploid wheat <i>Aegilops tauschii</i> and transmission of the splicing patterns to synthetic hexaploid wheat. <b>Plant Gene</b>, 9: 6-12. [https://doi.org/10.1016/j.plgene.2016.11.002](https://doi.org/10.1016/j.plgene.2016.11.002)</li>
   </ol>
 
@@ -75,6 +77,7 @@ Co-author: 6
 
   <ol reversed>
     <li><b>M. Okada</b>, K. Yoshida and S. Takumi (2018) Nucleotide diversity of a <i>grain softness protein 1</i> gene <i>GSP-U1</i> in wild wheat relative <i>Aegilops umbellulata</i>. Wheat Information Service 126: [eWIS126.1](https://shigen.nig.ac.jp/ewis/article/html/202/article.pdf)</li>
+    <br>
     <li>S. Takumi, <b>M. Okada</b>, A. Michikawa, Y. Miki, R. Ohno and K. Yoshida (2017) High-quality RNA isolation from wheat immature grains. Wheat Information Service 124: [eWIS124.1](https://shigen.nig.ac.jp/ewis/article/html/195/article.pdf)</li>
   </ol>
 
@@ -82,8 +85,11 @@ Co-author: 6
 
   <ol reversed>
     <li>角井 宏行, 南川 舞, <b>岡田 萌子</b>, 佐久間 俊, 岡田 眞銀, 増田 佳苗, 小松田 隆夫　(2024) コロナ・ポストコロナ期の海外留学・在外研究最新事情. 育種学研究 [https://doi.org/10.1270/jsbbr.26.w06](https://doi.org/10.1270/jsbbr.26.w06)</li>
+    <br>
     <li>梨木 聡人, 山森 晃一, 古村 翔也, 工藤 葵, 桒田 理恵子, 竹内 亜美, 清水 浩晶, 小川 泰生, <b>岡田 萌子</b> (2024) 若手研究者による農学的興味の広げ合い第3回～これからの農学とは～ (育種学会若手の会). 育種学研究 [https://doi.org/10.1270/jsbbr.26.W04](https://doi.org/10.1270/jsbbr.26.W04)</li>
+    <br>
     <li>徳山 芳樹, <b>岡田 萌子</b>, 黒木 健, 古村 翔也, 佐藤 萌子, 梨木 聡人, 増田 佳苗, 松尾 宏樹, 山森 晃一, Ji Xiaotong (2023) 若手研究者による農学的興味の広げ合い第2回～育種における植物フェノタイピング技術の応用～（育種学会若手の会）. 育種学研究 25(1) 73-77 [https://doi.org/10.1270/jsbbr.25.W07](https://doi.org/10.1270/jsbbr.25.W07)</li>
+    <br>
     <li>松尾宏樹, <b>岡田 萌子</b>, 山森晃一. 佐藤萌子. 柳江莉那, 元木航, 増田佳苗 (2022) 若手研究者による農学的興味の広げ合い 第1回～植物の性と交配～（育種学会若手の会）. 育種学研究  [https://doi.org/10.1270/jsbbr.24.W01](https://doi.org/10.1270/jsbbr.24.W01)</li>
   </ol>
 

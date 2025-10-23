@@ -2,8 +2,12 @@
 # Astatine (see https://github.com/hugcis/hugo-astatine-theme).
 #
 # The URL from which the site will be served
-baseurl = "https://MoekoOkada/moekookada.github.io/"
+baseURL = "https://MoekoOkada/moekookada.github.io/"
 publishDir = "docs"
+
+# Enable relative URLs and disable canonifyURLs
+relativeURLs = true
+canonifyURLs = false
 
 # Language used
 languageCode = "ja-jp"
