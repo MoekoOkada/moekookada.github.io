@@ -29,7 +29,7 @@ hideLastMod = true
     <li>2021 Apr. ~ 2022 Mar.&emsp;&emsp;JSPS research fellow PD</li>
     <li>2022 Apr. ~ 2023 Mar.&emsp;&emsp;Project-related Assistant Professor, Kihara Institute of Biological Research, Yokohama City University, Japan</li>
     <li>2022 Jul. ~ 2023 Sep.&emsp;&emsp;Post Doctoral Researcher, Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland</li>
-    <li>2023 Apr. ~ &emsp;Institute of Science and Technolog, and Faculty of Agriculture, Niigata University, Japan</li>
+    <li>2023 Apr. ~ &emsp;Assistant Professor, Faculty of Agriculture, Niigata University, Japan</li>
   </ul>
 </section>
 
@@ -51,6 +51,12 @@ hideLastMod = true
 
 <section class="grants-section">
   <ol reversed>
+    <li>創発的研究支援事業（代表）（研究課題番号：JPMJFR243H）（2025年10月〜2028年3月: 1st phase）</li>
+    <li>科研費・若手研究（代表）（研究課題番号：25K18217）（2025年4月〜2028年3月）</li>
+    <li>つくば機能植物イノベーション研究センター 「形質転換植物デザイン研究拠点」共同利用・共同研究課題（代表）（研究課題番号：2542）（2025年4月〜2026年3月）</li>
+    <li>鳥取大学乾燥地研究センター 令和６年度共同研究 若手奨励研究（代表）（研究課題番号：06C2003）（2024年4月〜2026年3月）</li>
+    <li>一般財団法人佐々木環境技術振興財団 試験研究助成（代表）（研究課題番号：38 1397）（2024年4月〜2026年3月）</li>
+    <li>公益財団法人内田エネルギー科学振興財団 試験研究助成（代表）（研究課題番号：R06-1035）（2024年4月〜2025年3月）</li>
     <li>科研費・若手研究（代表）（研究課題番号：22K15161）（2022年4月〜2025年3月）</li>
     <li>科研費・基盤B（分担）（研究課題番号：22H02307）（2022年4月〜2027年3月）</li>
     <li>科研費・基盤B（分担）（研究課題番号：19H02935）（2022年4月〜2024年3月）</li>
