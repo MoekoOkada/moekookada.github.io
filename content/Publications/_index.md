@@ -15,13 +15,16 @@ Co-author: 6
 #### 2026
 
   <ol reversed start=13>
-    <li><b>(NEW!)</b>G. Halstead-Nussloch*, <b>M. Okada</b>*, G. Haberer, T. Lux, A.S. Islam, M. Hatakeyama, R. Briskine, B. White, A. Hall, C. Pozniak, 10+ Wheat Genome Project, M. Spannagl, T. Paape, K.K. Shimizu (2025) Purifying selection on deleterious variants affected by the combination of subgenomes and gene expression in bread wheat. <b>Cell Reports</b> 116785  (*: equally contribution) [https://doi.org/10.1016/j.celrep.2025.116785](https://doi.org/10.1016/j.celrep.2025.116785)</li>
+    <li>
+    <b>(NEW!)</b>G. Halstead-Nussloch*, <b>M. Okada</b>*, G. Haberer, T. Lux, A.S. Islam, M. Hatakeyama, R. Briskine, B. White, A. Hall, C. Pozniak, 10+ Wheat Genome Project, M. Spannagl, T. Paape, K.K. Shimizu (2025) Purifying selection on deleterious variants affected by the combination of subgenomes and gene expression in bread wheat. 
+    <b>Cell Reports</b> 116785  (*: equally contribution) 
+    <a href="https://doi.org/10.1016/j.celrep.2025.116785" target="_blank">DOI</a></li>
   </ol>
 
 #### 2025
 
-  <ol reversed start=12>
-    <li>B. White, T. Lux, R. Rusholme-Pilcher, A. Juhász, G. Kaithakottil, S. Duncan, J. Simmonds, H. Rees, J. Wright, J. Colmer, S. Ward, R. Joynson, B. Coombes, N. Irish, S. Henderson, T. Barker, H. Chapman, L. Catchpole, K. Gharbi, U. Bose, <b>M. Okada</b>, H. Handa, S. Nasuda, K.K. Shimizu, H. Gundlach, D. Lang, G. Naamati, E.J. Legg, A.K. Bharti, M.L. Colgrave, W. Haerty, C. Uauy, D. Swarbreck, P. Borrill, J.A. Poland, S.G. Krattinger, N. Stein, K.F.X. Mayer, C. Pozniak, 10+ Wheat Genome Project, M. Spannagl, A. Hall (2025) <i>De novo</i> annotation reveals transcriptomic complexity across the hexaploid wheat pan-genome. <b>Nature Communications</b> 16:8538 [https://doi.org/10.1038/s41467-025-64046-1](https://doi.org/10.1038/s41467-025-64046-1)</li>
+  <ol reversed start=13>
+    <li>B. White, T. Lux, R. Rusholme-Pilcher, A. Juhász, G. Kaithakottil, S. Duncan, J. Simmonds, H. Rees, J. Wright, J. Colmer, S. Ward, R. Joynson, B. Coombes, N. Irish, S. Henderson, T. Barker, H. Chapman, L. Catchpole, K. Gharbi, U. Bose, <b>M. Okada</b>, H. Handa, S. Nasuda, K.K. Shimizu, H. Gundlach, D. Lang, G. Naamati, E.J. Legg, A.K. Bharti, M.L. Colgrave, W. Haerty, C. Uauy, D. Swarbreck, P. Borrill, J.A. Poland, S.G. Krattinger, N. Stein, K.F.X. Mayer, C. Pozniak, 10+ Wheat Genome Project, M. Spannagl, A. Hall (2025) <i>De novo</i> annotation reveals transcriptomic complexity across the hexaploid wheat pan-genome. <b>Nature Communications</b> 16:8538 <a href="https://doi.org/10.1038/s41467-025-64046-1" target="_blank">DOI</a></li>
     <br>
     <li>Y. Nomura, <b>M. Okada</b>, T. Tameshige, S. Takenaka, K.K. Shimizu, S. Nasuda, A.J. Nagano (2025) Subgenome-informed statistical modeling of transcriptomes in 25 common wheat accessions reveals cis- and trans-regulation architectures. <b>Plant and Cell Physiology</b> pcaf011 [https://doi.org/10.1093/pcp/pcaf011](https://doi.org/10.1093/pcp/pcaf011)</li>
   </ol>
