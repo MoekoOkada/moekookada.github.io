@@ -9,6 +9,7 @@ hideLastMod = true
 
 #### 2026
 
+- ○**M. Okada**, D. Sejdiu, T. Hosoya, S. Aeschbacher, V.J. Schünemann, K.K. Shimizu (202605) Tracing Hybridization Timing in Wheat Powdery Mildew through Historical Genomics. The 4th International Wheat Congress, No. P352, Bologna, Italy (Poster)
 - ○**M. Okada**, D. Sejdiu, T. Hosoya, S. Aeschbacher, K.K. Shimizu, V.J. Schünemann (202603) Historical Genomics Reveals the Timing of Hybridization in Wheat Powdery Mildew. Japanese-Taiwan Plant Biology 2026, No. 10, Tokyo, Japan (Oral, **invited**)
 
 #### 2025
